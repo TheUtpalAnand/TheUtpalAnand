@@ -5,7 +5,7 @@ I am a research student and in my 2nd year of Integrated BS-MS(Basic Sciences) d
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a developer and programmer as a hobby...
 
 
 ## 🔗 Links
