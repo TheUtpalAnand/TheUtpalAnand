@@ -1,5 +1,4 @@
-
-h3<# Hi, I'm Utpal Anand ! 👋>
+### Hi, I'm Utpal Anand ! 👋
 
 I am a research student and in my 2nd year of Integrated BS-MS(Basic Sciences) dual degree course at [IISER PUNE](https://www.iiserpune.ac.in/).
 
