@@ -59,3 +59,6 @@ fprintf('Fun Fact: %s\n', researcher.FunFact);
 <p align="center">
 <img src="https://github.com/TheUtpalAnand/TheUtpalAnand/blob/main/Media/github.jpg" alt="Footer Image">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheUtpalAnand&style=flat-square&color=orange" alt="Profile Views">
+</p>
