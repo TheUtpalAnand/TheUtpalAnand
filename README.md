@@ -26,14 +26,14 @@ classdef Researcher
     properties
         Name = 'Utpal Anand'
         Pronouns = ["He", "Him"]
-        Role = 'Researcher & Philosopher'
-        Skills = {"Python", "Archery", "Potion Making", "Alchemy"}
-        Tools = {"Matlab", "Github", "Python", "Desmos", "LateX"}
+        Role = 'Research Student'
+        Skills = {"Obviously Physics", "Computational Techniques"}
+        Tools = {"Matlab", "Mathematica","Github", "Python", "Desmos", "LateX"}
         AskMeAbout = {"Physics", "Osho", "Philosophy", "Research", "Biology"}
-        Knowledge = struct('science', {"Physics", "Biology", "Chemistry"}, ...
+        Knowledge = struct('science', {"Physics", "Biology", "Maths & ECS"}, ...
                            'programming', {"Python", "Matlab", "LateX"}, ...
                            'philosophy', {"Osho", "Spirituality"}, ...
-                           'misc', {"Ancient History", "Mythology"})
+                           'misc', {"Trading", "Politics"})
         CurrentFocus = 'Mastering Physics and Research'
         FunFact = '🔮|| Philosophy is the unreal version of Spirituality ||🔮'
     end
