@@ -1,6 +1,8 @@
 ## Hi, I'm Utpal Anand ! 👋
 
-I am a research student and in my 2nd year of Integrated BS-MS (Basic Sciences) dual degree course at [IISER PUNE](https://www.iiserpune.ac.in/).
+Let's do some Research
+
+I'm a research student and in my 2nd year of Integrated BS-MS (Basic Sciences) dual degree course at [IISER PUNE](https://www.iiserpune.ac.in/).
 I haven't yet decided my major subject but I have interest in Physics and Biology.
 I do programming/coding for integrating scientific studies to it with my own flexibility.<br>
 
