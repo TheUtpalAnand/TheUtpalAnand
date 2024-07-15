@@ -57,5 +57,5 @@ fprintf('Fun Fact: %s\n', researcher.FunFact);
 ```
 
 <p align="center">
-<img src="https://github.com/TheUtpalAnand/TheUtpalAnand/blob/main/Media/Higgs_Boson-removebg-preview.png" alt="Footer Image">
+<img src="https://github.com/TheUtpalAnand/TheUtpalAnand/blob/main/Media/github.jpg" alt="Footer Image">
 </p>
