@@ -55,3 +55,7 @@ fprintf('Fun Fact: %s\n', researcher.FunFact);
 
     
 ```
+
+<p align="center">
+<img src="https://github.com/TheUtpalAnand/TheUtpalAnand/blob/main/Media/cern.webp" alt="Footer Image">
+</p>
