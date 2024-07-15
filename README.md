@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheUtpalAnand/TheUtpalAnand/blob/main/Media/hello.gif" width="50">, I'm Utpal Anand ! 
+## Hi <img src="https://github.com/TheUtpalAnand/TheUtpalAnand/blob/main/Media/dog.gif" width="50">, I'm Utpal Anand ! 
 
 Let's do some Research
 
