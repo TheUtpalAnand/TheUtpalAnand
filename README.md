@@ -1,6 +1,6 @@
-<h2> Hi <img src="./Media/dog.gif" width="50" vertical-align="center">, I'm Utpal Anand ! </h2>
+<h2 > Hi <img src="./Media/dog.gif" width="50" >, I'm Utpal Anand ! </h2>
 
-Let's do some Research <img src="./Media/alien.gif" width="50" vertical-align="center">
+<p vertical-align="center" >Let's do some Research.... </p>
 
 I'm a research student and in my 2nd year of Integrated BS-MS (Basic Sciences) dual degree course at [IISER PUNE](https://www.iiserpune.ac.in/).
 I haven't yet decided my major subject but I have interest in Physics and Biology.
@@ -19,10 +19,10 @@ I do programming/coding for integrating scientific studies to it with my own fle
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/TheUtpalAnand)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26378845/theutpalanand)
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@theutpalanand)
-
+<img src="./Media/alien.gif" width="25" vertical-align="center">
 ---
 
-### Something about me...
+### Let's jump into me<img src="./Media/jumping.gif" width="80" >
 ```Matlab
 classdef Researcher
     properties
@@ -55,7 +55,7 @@ fprintf('Fun Fact: %s\n', researcher.FunFact);
 
     
 ```
-
+---
 <p align="center">
 <img src="https://github.com/TheUtpalAnand/TheUtpalAnand/blob/main/Media/github.jpg" alt="Footer Image">
 </p>
