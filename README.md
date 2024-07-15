@@ -26,58 +26,30 @@ classdef Researcher
     properties
         Name = 'Utpal Anand'
         Pronouns = ["He", "Him"]
-        Role = 'Researcher & '
-        Skills = {"", "Archery", "Potion Making", "Alchemy"}
+        Role = 'Researcher & Philosopher'
+        Skills = {"Python", "Archery", "Potion Making", "Alchemy"}
         Tools = {"Matlab", "Github", "Python", "Desmos", "LateX"}
         AskMeAbout = {"Physics", "Osho", "Philosophy", "Research", "Biology"}
-        DailyRoutine = struct('morning', 'Training in the enchanted forest', ...
-                              'afternoon', 'Exploring ancient ruins', ...
-                              'evening', 'Studying arcane texts', ...
-                              'night', 'Meditation and potion brewing')
-        Knowledge = struct('combat', {"Swordsmanship", "Archery", "Defense Tactics"}, ...
-                           'alchemy', {"Potion Making", "Herbal Remedies", "Transmutation"}, ...
-                           'magic', {"Elemental Spells", "Enchantments", "Illusions"}, ...
-                           'exploration', {"Cartography", "Survival Skills", "Mystic Compass Usage"}, ...
-                           'misc', {"Ancient Languages", "Magical Creatures"})
-        CurrentFocus = 'Physics and Research'
+        Knowledge = struct('science', {"Physics", "Biology", "Chemistry"}, ...
+                           'programming', {"Python", "Matlab", "LateX"}, ...
+                           'philosophy', {"Osho", "Spirituality"}, ...
+                           'misc', {"Ancient History", "Mythology"})
+        CurrentFocus = 'Mastering Physics and Research'
         FunFact = '🔮|| Philosophy is the unreal version of Spirituality ||🔮'
-    end
-    
-    methods
-        function obj = startDay(obj)
-            fprintf('Good morning! He is ready for another day of Research!\n', obj.Name);
-            obj.followRoutine();
-        end
-        
-        function followRoutine(obj)
-            routineFields = fieldnames(obj.DailyRoutine);
-            for i = 1:numel(routineFields)
-                timeOfDay = routineFields{i};
-                activity = obj.DailyRoutine.(timeOfDay);
-                fprintf('In the %s, %s is usually %s.\n', timeOfDay, obj.Name, activity);
-            end
-        end
-        
-        function performSkill(obj, skill)
-            if ismember(skill, obj.Skills)
-                fprintf('%s expertly performs %s.\n', obj.Name, skill);
-            else
-                fprintf('%s doesn''t know how to %s yet.\n', obj.Name, skill);
-            end
-        end
     end
 end
 
 % Create an instance of Researcher
-Researcher = Researcher();
-Researcher.Name = 'Utpal Anand';
-Researcher.Pronouns = ["He", "Him"];
-Researcher.CurrentFocus = 'Mastering Physics and Research';
+researcher = Researcher();
+researcher.Name = 'Utpal Anand';
+researcher.Pronouns = ["He", "Him"];
+researcher.CurrentFocus = 'Mastering Physics and Research';
 
-% Simulate a day in the life of the Researcher
-Researcher.startDay();
-Researcher.performSkill('Start with Science and Research');
+% Display some properties
+fprintf('Name: %s\n', researcher.Name);
+fprintf('Role: %s\n', researcher.Role);
+fprintf('Current Focus: %s\n', researcher.CurrentFocus);
+fprintf('Fun Fact: %s\n', researcher.FunFact);
 
-% Enchant the world with love (this function would need to be implemented)
-enchantWorldWithLove();
+    
 ```
