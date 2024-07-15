@@ -1,6 +1,6 @@
-<h2> Hi <img src="https://github.com/TheUtpalAnand/TheUtpalAnand/blob/main/Media/dog.gif" width="50" vertical-align="bottom">, I'm Utpal Anand ! </h2>
+<h2> Hi <img src="./Media/dog.gif" width="50" vertical-align="bottom">, I'm Utpal Anand ! </h2>
 
-Let's do some Research
+Let's do some Research <img src="./Media/alien.gif" width="50" vertical-align="bottom">
 
 I'm a research student and in my 2nd year of Integrated BS-MS (Basic Sciences) dual degree course at [IISER PUNE](https://www.iiserpune.ac.in/).
 I haven't yet decided my major subject but I have interest in Physics and Biology.
