@@ -24,6 +24,7 @@ I do programming/coding for integrating scientific studies to it with my own fle
 ---
 ### Download My [Resume](https://theutpalanand.github.io/) and [Curriculum Vitae](https://theutpalanand.github.io/) 
 ---
+### Download My [Cover Letter](https://theutpalanand.github.io/)
 <table>
  <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -34,7 +35,7 @@ I do programming/coding for integrating scientific studies to it with my own fle
   </tr>
 </table>
 
-### Download My [Cover Letter](https://theutpalanand.github.io/)
+
 
 ```Matlab
 classdef Researcher
