@@ -1,6 +1,6 @@
-<h2 > Hi <img src="./Media/dog.gif" width="50" >, I'm Utpal Anand ! </h2>
+<h2 > Hi <img src="./Media/dog.gif" width="50">, I'm Utpal Anand ! </h2>
 
-<p vertical-align="center" >Let's do some Research.... </p>
+<p >Let's do some Research.... </p>
 
 I'm a research student and in my 2nd year of Integrated BS-MS (Basic Sciences) dual degree course at [IISER PUNE](https://www.iiserpune.ac.in/).
 I haven't yet decided my major subject but I have interest in Physics and Biology.
@@ -9,7 +9,7 @@ I do programming/coding for integrating scientific studies to it with my own fle
 
 
 
-### Social Media Handles 
+### Social Media Handles!!
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://theutpalanand.github.io/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theutpalanand)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/theutpalanand)
@@ -19,7 +19,7 @@ I do programming/coding for integrating scientific studies to it with my own fle
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/TheUtpalAnand)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26378845/theutpalanand)
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@theutpalanand)
-<img src="./Media/alien.gif" width="25" vertical-align="center">
+<img src="./Media/alien.gif" width="25">
 
 ---
 
@@ -47,7 +47,6 @@ researcher = Researcher();
 researcher.Name = 'Utpal Anand';
 researcher.Pronouns = ["He", "Him"];
 researcher.CurrentFocus = 'Mastering Physics and Research';
-
 % Display some properties
 fprintf('Name: %s\n', researcher.Name);
 fprintf('Role: %s\n', researcher.Role);
@@ -60,6 +59,11 @@ fprintf('Fun Fact: %s\n', researcher.FunFact);
 <p align="center">
 <img src="https://github.com/TheUtpalAnand/TheUtpalAnand/blob/main/Media/github.jpg" alt="Footer Image">
 </p>
+<p align="center"> <img src="./Media/cat.gif" width="200" > </p>
+<p align="center"> Thanks for Visiting My Profile </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheUtpalAnand&style=flat-square&color=orange" alt="Profile Views">
 </p>
+
+
