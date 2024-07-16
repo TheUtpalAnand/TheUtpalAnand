@@ -8,8 +8,8 @@ I do programming/coding for integrating scientific studies to it with my own fle
 
 
 
----
-### Social Media Handles
+
+### Social Media Handles 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://theutpalanand.github.io/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theutpalanand)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/theutpalanand)
@@ -20,6 +20,7 @@ I do programming/coding for integrating scientific studies to it with my own fle
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26378845/theutpalanand)
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@theutpalanand)
 <img src="./Media/alien.gif" width="25" vertical-align="center">
+
 ---
 
 ### Let's jump into me<img src="./Media/jumping.gif" width="80" >
