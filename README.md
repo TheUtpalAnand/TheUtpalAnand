@@ -9,7 +9,7 @@ I do programming/coding for integrating scientific studies to it with my own fle
 
 
 
-### Social Media Handles!!
+### Find me also here!!
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://theutpalanand.github.io/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theutpalanand)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/theutpalanand)
