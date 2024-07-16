@@ -22,6 +22,9 @@ I do programming/coding for integrating scientific studies to it with my own fle
 <img src="./Media/alien.gif" width="25">
 
 ---
+### Download My [Curriculum Vitae](https://theutpalanand.github.io/)
+
+---
 
 ### Let's jump into me<img src="./Media/jumping.gif" width="80" >
 ```Matlab
