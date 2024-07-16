@@ -22,11 +22,11 @@ I do programming/coding for integrating scientific studies to it with my own fle
 <img src="./Media/alien.gif" width="25">
 
 ---
-### Download My [Resume](https://theutpalanand.github.io/) and [Curriculum Vitae](https://theutpalanand.github.io/) <br> Know About me: [Cover Letter](https://theutpalanand.github.io/)
-
+### Download My [Resume](https://theutpalanand.github.io/) and [Curriculum Vitae](https://theutpalanand.github.io/) 
 ---
 
-### Let's jump into me<img src="./Media/jumping.gif" width="80" >
+### Let's jump into me<img src="./Media/jumping.gif" width="80" > <br> Download My [Cover Letter](https://theutpalanand.github.io/)
+
 ```Matlab
 classdef Researcher
     properties
