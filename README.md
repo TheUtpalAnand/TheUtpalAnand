@@ -24,8 +24,17 @@ I do programming/coding for integrating scientific studies to it with my own fle
 ---
 ### Download My [Resume](https://theutpalanand.github.io/) and [Curriculum Vitae](https://theutpalanand.github.io/) 
 ---
+<table>
+ <table style="border-collapse: collapse; border: none;">
+  <tr>
+   <td> <h3> Let's jump into me</h3></td>
+    <td style="border: none;">
+      <img src="./Media/jumping.gif" style="width: 80px; height: 80px; display: block;">
+    </td>
+  </tr>
+</table>
 
-### Let's jump into me<img src="./Media/jumping.gif" width="80" > <br> Download My [Cover Letter](https://theutpalanand.github.io/)
+### Download My [Cover Letter](https://theutpalanand.github.io/)
 
 ```Matlab
 classdef Researcher
