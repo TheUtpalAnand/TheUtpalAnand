@@ -22,7 +22,7 @@ I do programming/coding for integrating scientific studies to it with my own fle
 <img src="./Media/alien.gif" width="25">
 
 ---
-### Download My [Resume](https://theutpalanand.github.io/) and [Curriculum Vitae](https://theutpalanand.github.io/)
+### Download My [Resume](https://theutpalanand.github.io/) and [Curriculum Vitae](https://theutpalanand.github.io/) <br> Know About me: [Cover Letter](https://theutpalanand.github.io/)
 
 ---
 
