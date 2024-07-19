@@ -24,6 +24,12 @@ I do programming/coding for integrating scientific studies to it with my own fle
 ---
 ### Download My [Resume](https://theutpalanand.github.io/) and [Curriculum Vitae](https://theutpalanand.github.io/) 
 ---
+<p align="center">
+<img src="./Media/Baner%20for%20site.png" alt="Header Image">
+</p>
+
+---
+
 ### Download My [Cover Letter](https://theutpalanand.github.io/)
 <table>
  <table style="border-collapse: collapse; border: none;">
